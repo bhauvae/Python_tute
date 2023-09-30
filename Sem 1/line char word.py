@@ -1,0 +1,10 @@
+text = open("text.txt", 'r')
+str = text.read()
+lines = str.split("\n")
+str.strip('\n')
+words = str.split()
+
+print(len(str.strip('\n')))
+print(len(words))
+print(len(lines))
+print(str.strip("\n"))

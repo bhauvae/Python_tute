@@ -1,0 +1,19 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "black",
+  "cSpell.words": [
+    "barplot",
+    "cmap",
+    "colnames",
+    "cumsum",
+    "dtype",
+    "matplotlib",
+    "pyplot",
+    "randn",
+    "rownames",
+    "seaborn",
+    "xlabel"
+  ]
+}
